@@ -8,7 +8,7 @@ open the test folder, double click index.html
 then input your message, you will see the tip
 ```
 
-##Test
+## Test
 
 ``` bash
 # test1
